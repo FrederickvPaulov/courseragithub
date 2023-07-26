@@ -4,7 +4,8 @@
 
 
 
-# Author:  Frederickv Albornoz Escobedo
+# Author:  Frederickv Albornoz Escobedo or FrederickvPaulov 
+# Github username : FrederickvPaulov
 
 # A name to be considered 
 
